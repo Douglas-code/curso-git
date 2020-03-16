@@ -8,6 +8,7 @@ namespace Gitex1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia!");
+            Console.WriteLine("Como voce esta?");
             Console.ReadLine();
         }
     }
